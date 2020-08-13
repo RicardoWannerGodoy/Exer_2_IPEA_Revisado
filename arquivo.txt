@@ -1,0 +1,8 @@
+Clientes: {'id': 0, 'nome': 'tereza', 'idade': '45', 'conta': {'id': 0, 'saldo': 105.53999999999999}, 'experiencia': 3}
+{'id': 1, 'nome': 'carla', 'idade': '56', 'conta': {'id': 0, 'saldo': 141.46}, 'experiencia': 4}
+
+Lojas: {'id': 'tr', 'conta': {'id': 0, 'saldo': 0}, 'custo_produto': 59.03, 'experiencia': 4, 'capacidade': 18}
+{'id': 're', 'conta': {'id': 0, 'saldo': 56.46}, 'custo_produto': 56.46, 'experiencia': 3, 'capacidade': 126}
+{'id': 'yu', 'conta': {'id': 0, 'saldo': 22.54}, 'custo_produto': 22.54, 'experiencia': 4, 'capacidade': 133}
+
+Media de experiencia: 3.5
