@@ -150,6 +150,7 @@ Nesse momento o programa é finalizado e o arquivo de saída foi gerado na pasta
 if __name__ == '__main__':
     main()
 ````
+Nesse momento é o código chama o "def main():" e aí o programa roda. 
 
 <br/>
 
